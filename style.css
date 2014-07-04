@@ -9,7 +9,6 @@ html {
 body {
 	margin: 0;
 	padding: 0;
-	background-color: white;
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: 400;
 	height: 100%;
@@ -113,7 +112,7 @@ dl.definition {
 	border: 1px solid silver;
 	padding: 0.5em;
 	margin: 1em 0 1em 0;
-	background-color: grey;
+	background-color: #096;
 	color: white;
 	-webkit-column-break-inside:avoid;
 	-moz-column-break-inside:avoid;
