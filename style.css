@@ -75,6 +75,13 @@ iframe.menu {
 .menu li a {
 	display: block;
 }
+.exit-link {
+	float: right;
+	position: inherit;
+	right: 20px;
+	color: #F00;
+	font-size: larger;
+}
 
 /* TEXT ELEMENTS =====================================================  */
 
@@ -140,4 +147,5 @@ a.button {
 	border: 1px solid gainsboro;
 	padding: 5px;
 	margin: 1em;
+	width: 150px;
 }
