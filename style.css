@@ -28,8 +28,10 @@ iframe.menu {
 	height: 1000%;
 }
 .test {
+	position: absolute;
 	height: 0;
 	margin-left: 300px;
+	z-index: 10;
 }
 .test iframe {
 	height: 650px;
