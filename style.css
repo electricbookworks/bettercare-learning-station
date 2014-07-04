@@ -149,3 +149,6 @@ a.button {
 	margin: 1em;
 	width: 150px;
 }
+.unavailable {
+	opacity: 0.5;
+}
