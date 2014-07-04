@@ -110,7 +110,7 @@ dl.definition {
 	border: 1px solid silver;
 	padding: 0.5em;
 	margin: 1em 0 1em 0;
-	background-color: #6C9;
+	background-color: grey;
 	-webkit-column-break-inside:avoid;
 	-moz-column-break-inside:avoid;
 	-o-column-break-inside:avoid;
